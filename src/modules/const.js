@@ -1,6 +1,6 @@
 export const COUNT_PAGINATION = 3;
 export const DATA = {};
-export const API_URL = 'https://organized-gelatinous-client.glitch.me';
+export const API_URL = 'https://festive-resonant-yew.glitch.me';
 export const TITLE = {
   women: {
     title: 'Нова колекція Бюстгальтер-балконет ',
